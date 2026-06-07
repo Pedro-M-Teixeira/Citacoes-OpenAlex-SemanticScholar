@@ -2,7 +2,7 @@
 
 Script Python para extração automatizada de indicadores bibliométricos (índices de citação e métricas de impacto autoral) de um corpus de artigos científicos, desenvolvido no âmbito de uma tese de doutoramento sobre **Literacia em Dados e Dados Abertos Governamentais na Administração Pública Portuguesa**.
 
-[![DOI](https://img.shields.io/badge/doi.org/10.5281/zenodo.20581071)](https://doi.org/10.5281/zenodo.20581071)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20581071.svg)](https://doi.org/10.5281/zenodo.20581071)
 [![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
