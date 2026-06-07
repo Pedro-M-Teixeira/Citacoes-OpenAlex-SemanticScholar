@@ -51,7 +51,7 @@ Requer **Python 3.13** ou superior.
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/<utilizador>/bibliometria-rsl.git
+git clone https://github.com/Pedro-M-Teixeira/bibliometria-rsl.git
 cd bibliometria-rsl
 
 # Instalar as dependências
